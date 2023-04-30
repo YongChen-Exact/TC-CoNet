@@ -32,17 +32,17 @@ Datasets can be acquired via following links:
 ## Functions of scripts
 
 - **Network architecture:**
-  - TCCoNet\TCCoNet\network_architecture\TCCoNet_acdc.py``
-  - TCCoNet\TCCoNet\network_architecture\TCCoNet_synapse.py``
-  - TCCoNet\TCCoNet\network_architecture\TCCoNet_tumor.py``
-  - TCCoNet\TCCoNet\network_architecture\TCCoNet_heart.py``
-  - TCCoNet\TCCoNet\network_architecture\TCCoNet_lung.py``
+  - ``TCCoNet\TCCoNet\network_architecture\TCCoNet_acdc.py``
+  - ``TCCoNet\TCCoNet\network_architecture\TCCoNet_synapse.py``
+  - ``TCCoNet\TCCoNet\network_architecture\TCCoNet_tumor.py``
+  - ``TCCoNet\TCCoNet\network_architecture\TCCoNet_heart.py``
+  - ``TCCoNet\TCCoNet\network_architecture\TCCoNet_lung.py``
 - **Trainer for dataset:**
-  - TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_acdc.py``
-  - TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_synapse.py``
-  - TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_tumor.py``
-  - TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_heart.py``
-  - TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_lung.py``
+  - ``TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_acdc.py``
+  - ``TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_synapse.py``
+  - ``TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_tumor.py``
+  - ``TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_heart.py``
+  - ``TCCoNet\TCCoNet\training\network_training\TCCoNetTrainerV2_TCCoNet_lung.py``
 
 ## Train Model
 
