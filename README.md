@@ -1,11 +1,7 @@
 # TC-CoNet
 This repository contains the supported pytorch code and configuration files to reproduce of TC-CoNet.
 
-<<<<<<< HEAD
 ![TC-CoNet Architecture](img/Architecture_overview.jpg?raw=true)
-=======
-![VT-UNet Architecture](img/Architecture_overview.jpg?raw=true)
->>>>>>> b34c713eb2d819ba9319f2710977b451185b3813
 
 
 
