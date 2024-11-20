@@ -62,3 +62,15 @@ Datasets can be acquired via following links:
 
 This repository makes liberal use of code from [Swin Transformer](https://github.com/microsoft/Swin-Transformer), [nnUNet](https://github.com/MIC-DKFZ/nnUNet).
 
+## Citation
+
+@article{chen2023collaborative,  
+  title={Collaborative networks of transformers and convolutional neural networks are powerful and versatile learners for accurate 3D medical image segmentation},  
+  author={Chen, Yong and Lu, Xuesong and Xie, Qinlan},  
+  journal={Computers in Biology and Medicine},  
+  volume={164},  
+  pages={107228},  
+  year={2023},  
+  publisher={Elsevier}  
+}
+
